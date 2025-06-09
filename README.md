@@ -1,0 +1,1 @@
+# Kreditindex kalkulátor V2
